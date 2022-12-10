@@ -7,8 +7,6 @@ Site desenvolvido para praticar diversos conceitos de JavaScript, tendo como ins
 * HTML;
 * CSS;
 * JavaScript;
-* Eslint;
-* Webpack;
 
 ## :soon: Implementação futura
 * Adicionar os pokemons Poipole, Nanagadel e Stakataka :sweat_smile:
